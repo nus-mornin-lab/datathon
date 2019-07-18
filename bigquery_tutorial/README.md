@@ -10,7 +10,7 @@ GROUP BY  operation_table_code
 LIMIT 100
 ```
 
-* Below are the links to the schemas used for this years Datathon.
+* Below are the links to the schemas used for this year's Datathon.
 	* [MIMICiii](https://mit-lcp.github.io/mimic-schema-spy)
 	* [eicu](https://mit-lcp.github.io/eicu-schema-spy)
 	* [SYNTHETIC](http://htmlpreview.github.io/?https://github.com/nus-mornin-lab/datathon-gcp-2019/blob/master/bigquery_tutorial/schemas/datadict.html)
